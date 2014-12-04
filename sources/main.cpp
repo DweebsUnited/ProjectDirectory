@@ -7,6 +7,8 @@
 * be distributed with this source code.
 *************************************************************************************/
 
+#include "main.h"
+
 int main( ) {
     return 0;
 }
