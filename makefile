@@ -54,7 +54,3 @@ clean:
 cleanall: clean
 	rm $(EXECNAME)
 	rm $(TESTNAME)
-
-.PHONY: generate
-generate:
-	python resources/ccwmsetup.py
